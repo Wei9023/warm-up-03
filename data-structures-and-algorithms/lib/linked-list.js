@@ -32,4 +32,4 @@ class LinkedList {
 
 }
 
-nodule.exports = LinkedList;
+module.exports = LinkedList;
